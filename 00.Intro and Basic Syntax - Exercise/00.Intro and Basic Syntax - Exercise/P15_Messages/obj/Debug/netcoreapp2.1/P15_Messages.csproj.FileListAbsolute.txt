@@ -1,0 +1,11 @@
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P15_Messages\bin\Debug\netcoreapp2.1\P15_Messages.deps.json
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P15_Messages\bin\Debug\netcoreapp2.1\P15_Messages.runtimeconfig.json
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P15_Messages\bin\Debug\netcoreapp2.1\P15_Messages.runtimeconfig.dev.json
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P15_Messages\bin\Debug\netcoreapp2.1\P15_Messages.dll
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P15_Messages\bin\Debug\netcoreapp2.1\P15_Messages.pdb
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P15_Messages\obj\Debug\netcoreapp2.1\P15_Messages.csprojAssemblyReference.cache
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P15_Messages\obj\Debug\netcoreapp2.1\P15_Messages.csproj.CoreCompileInputs.cache
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P15_Messages\obj\Debug\netcoreapp2.1\P15_Messages.AssemblyInfoInputs.cache
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P15_Messages\obj\Debug\netcoreapp2.1\P15_Messages.AssemblyInfo.cs
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P15_Messages\obj\Debug\netcoreapp2.1\P15_Messages.dll
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P15_Messages\obj\Debug\netcoreapp2.1\P15_Messages.pdb

@@ -1,0 +1,10 @@
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P05_PrintPartoftheASCIITable\bin\Debug\netcoreapp2.1\P05_PrintPartoftheASCIITable.deps.json
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P05_PrintPartoftheASCIITable\bin\Debug\netcoreapp2.1\P05_PrintPartoftheASCIITable.runtimeconfig.json
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P05_PrintPartoftheASCIITable\bin\Debug\netcoreapp2.1\P05_PrintPartoftheASCIITable.runtimeconfig.dev.json
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P05_PrintPartoftheASCIITable\bin\Debug\netcoreapp2.1\P05_PrintPartoftheASCIITable.dll
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P05_PrintPartoftheASCIITable\bin\Debug\netcoreapp2.1\P05_PrintPartoftheASCIITable.pdb
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P05_PrintPartoftheASCIITable\obj\Debug\netcoreapp2.1\P05_PrintPartoftheASCIITable.csproj.CoreCompileInputs.cache
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P05_PrintPartoftheASCIITable\obj\Debug\netcoreapp2.1\P05_PrintPartoftheASCIITable.AssemblyInfoInputs.cache
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P05_PrintPartoftheASCIITable\obj\Debug\netcoreapp2.1\P05_PrintPartoftheASCIITable.AssemblyInfo.cs
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P05_PrintPartoftheASCIITable\obj\Debug\netcoreapp2.1\P05_PrintPartoftheASCIITable.dll
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P05_PrintPartoftheASCIITable\obj\Debug\netcoreapp2.1\P05_PrintPartoftheASCIITable.pdb

@@ -1,0 +1,10 @@
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P14_ReverseString\bin\Debug\netcoreapp2.1\P14_ReverseString.deps.json
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P14_ReverseString\bin\Debug\netcoreapp2.1\P14_ReverseString.runtimeconfig.json
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P14_ReverseString\bin\Debug\netcoreapp2.1\P14_ReverseString.runtimeconfig.dev.json
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P14_ReverseString\bin\Debug\netcoreapp2.1\P14_ReverseString.dll
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P14_ReverseString\bin\Debug\netcoreapp2.1\P14_ReverseString.pdb
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P14_ReverseString\obj\Debug\netcoreapp2.1\P14_ReverseString.csproj.CoreCompileInputs.cache
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P14_ReverseString\obj\Debug\netcoreapp2.1\P14_ReverseString.AssemblyInfoInputs.cache
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P14_ReverseString\obj\Debug\netcoreapp2.1\P14_ReverseString.AssemblyInfo.cs
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P14_ReverseString\obj\Debug\netcoreapp2.1\P14_ReverseString.dll
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P14_ReverseString\obj\Debug\netcoreapp2.1\P14_ReverseString.pdb

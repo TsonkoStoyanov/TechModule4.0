@@ -1,0 +1,10 @@
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P10_RageExpenses\bin\Debug\netcoreapp2.1\P10_RageExpenses.deps.json
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P10_RageExpenses\bin\Debug\netcoreapp2.1\P10_RageExpenses.runtimeconfig.json
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P10_RageExpenses\bin\Debug\netcoreapp2.1\P10_RageExpenses.runtimeconfig.dev.json
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P10_RageExpenses\bin\Debug\netcoreapp2.1\P10_RageExpenses.dll
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P10_RageExpenses\bin\Debug\netcoreapp2.1\P10_RageExpenses.pdb
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P10_RageExpenses\obj\Debug\netcoreapp2.1\P10_RageExpenses.csproj.CoreCompileInputs.cache
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P10_RageExpenses\obj\Debug\netcoreapp2.1\P10_RageExpenses.AssemblyInfoInputs.cache
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P10_RageExpenses\obj\Debug\netcoreapp2.1\P10_RageExpenses.AssemblyInfo.cs
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P10_RageExpenses\obj\Debug\netcoreapp2.1\P10_RageExpenses.dll
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P10_RageExpenses\obj\Debug\netcoreapp2.1\P10_RageExpenses.pdb

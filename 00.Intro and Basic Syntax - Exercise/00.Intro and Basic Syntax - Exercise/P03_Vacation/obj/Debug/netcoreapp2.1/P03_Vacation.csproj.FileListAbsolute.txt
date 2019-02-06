@@ -1,0 +1,10 @@
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P03_Vacation\bin\Debug\netcoreapp2.1\P03_Vacation.deps.json
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P03_Vacation\bin\Debug\netcoreapp2.1\P03_Vacation.runtimeconfig.json
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P03_Vacation\bin\Debug\netcoreapp2.1\P03_Vacation.runtimeconfig.dev.json
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P03_Vacation\bin\Debug\netcoreapp2.1\P03_Vacation.dll
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P03_Vacation\bin\Debug\netcoreapp2.1\P03_Vacation.pdb
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P03_Vacation\obj\Debug\netcoreapp2.1\P03_Vacation.csproj.CoreCompileInputs.cache
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P03_Vacation\obj\Debug\netcoreapp2.1\P03_Vacation.AssemblyInfoInputs.cache
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P03_Vacation\obj\Debug\netcoreapp2.1\P03_Vacation.AssemblyInfo.cs
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P03_Vacation\obj\Debug\netcoreapp2.1\P03_Vacation.dll
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P03_Vacation\obj\Debug\netcoreapp2.1\P03_Vacation.pdb

@@ -1,0 +1,10 @@
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P06_TriplesofLatinLetters\bin\Debug\netcoreapp2.1\P06_TriplesofLatinLetters.deps.json
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P06_TriplesofLatinLetters\bin\Debug\netcoreapp2.1\P06_TriplesofLatinLetters.runtimeconfig.json
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P06_TriplesofLatinLetters\bin\Debug\netcoreapp2.1\P06_TriplesofLatinLetters.runtimeconfig.dev.json
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P06_TriplesofLatinLetters\bin\Debug\netcoreapp2.1\P06_TriplesofLatinLetters.dll
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P06_TriplesofLatinLetters\bin\Debug\netcoreapp2.1\P06_TriplesofLatinLetters.pdb
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P06_TriplesofLatinLetters\obj\Debug\netcoreapp2.1\P06_TriplesofLatinLetters.csproj.CoreCompileInputs.cache
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P06_TriplesofLatinLetters\obj\Debug\netcoreapp2.1\P06_TriplesofLatinLetters.AssemblyInfoInputs.cache
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P06_TriplesofLatinLetters\obj\Debug\netcoreapp2.1\P06_TriplesofLatinLetters.AssemblyInfo.cs
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P06_TriplesofLatinLetters\obj\Debug\netcoreapp2.1\P06_TriplesofLatinLetters.dll
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P06_TriplesofLatinLetters\obj\Debug\netcoreapp2.1\P06_TriplesofLatinLetters.pdb

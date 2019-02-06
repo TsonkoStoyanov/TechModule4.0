@@ -1,0 +1,10 @@
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P07_VendingMashine\bin\Debug\netcoreapp2.1\P07_VendingMashine.deps.json
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P07_VendingMashine\bin\Debug\netcoreapp2.1\P07_VendingMashine.runtimeconfig.json
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P07_VendingMashine\bin\Debug\netcoreapp2.1\P07_VendingMashine.runtimeconfig.dev.json
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P07_VendingMashine\bin\Debug\netcoreapp2.1\P07_VendingMashine.dll
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P07_VendingMashine\bin\Debug\netcoreapp2.1\P07_VendingMashine.pdb
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P07_VendingMashine\obj\Debug\netcoreapp2.1\P07_VendingMashine.csproj.CoreCompileInputs.cache
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P07_VendingMashine\obj\Debug\netcoreapp2.1\P07_VendingMashine.AssemblyInfoInputs.cache
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P07_VendingMashine\obj\Debug\netcoreapp2.1\P07_VendingMashine.AssemblyInfo.cs
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P07_VendingMashine\obj\Debug\netcoreapp2.1\P07_VendingMashine.dll
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P07_VendingMashine\obj\Debug\netcoreapp2.1\P07_VendingMashine.pdb

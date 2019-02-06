@@ -1,0 +1,11 @@
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P09_PadawanEquipment\bin\Debug\netcoreapp2.1\P09_PadawanEquipment.deps.json
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P09_PadawanEquipment\bin\Debug\netcoreapp2.1\P09_PadawanEquipment.runtimeconfig.json
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P09_PadawanEquipment\bin\Debug\netcoreapp2.1\P09_PadawanEquipment.runtimeconfig.dev.json
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P09_PadawanEquipment\bin\Debug\netcoreapp2.1\P09_PadawanEquipment.dll
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P09_PadawanEquipment\bin\Debug\netcoreapp2.1\P09_PadawanEquipment.pdb
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P09_PadawanEquipment\obj\Debug\netcoreapp2.1\P09_PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P09_PadawanEquipment\obj\Debug\netcoreapp2.1\P09_PadawanEquipment.AssemblyInfoInputs.cache
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P09_PadawanEquipment\obj\Debug\netcoreapp2.1\P09_PadawanEquipment.AssemblyInfo.cs
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P09_PadawanEquipment\obj\Debug\netcoreapp2.1\P09_PadawanEquipment.dll
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P09_PadawanEquipment\obj\Debug\netcoreapp2.1\P09_PadawanEquipment.pdb
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P09_PadawanEquipment\obj\Debug\netcoreapp2.1\P09_PadawanEquipment.csprojAssemblyReference.cache

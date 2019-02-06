@@ -1,0 +1,10 @@
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P09_SpiceMustFlow\bin\Debug\netcoreapp2.1\P09_SpiceMustFlow.deps.json
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P09_SpiceMustFlow\bin\Debug\netcoreapp2.1\P09_SpiceMustFlow.runtimeconfig.json
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P09_SpiceMustFlow\bin\Debug\netcoreapp2.1\P09_SpiceMustFlow.runtimeconfig.dev.json
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P09_SpiceMustFlow\bin\Debug\netcoreapp2.1\P09_SpiceMustFlow.dll
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P09_SpiceMustFlow\bin\Debug\netcoreapp2.1\P09_SpiceMustFlow.pdb
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P09_SpiceMustFlow\obj\Debug\netcoreapp2.1\P09_SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P09_SpiceMustFlow\obj\Debug\netcoreapp2.1\P09_SpiceMustFlow.AssemblyInfoInputs.cache
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P09_SpiceMustFlow\obj\Debug\netcoreapp2.1\P09_SpiceMustFlow.AssemblyInfo.cs
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P09_SpiceMustFlow\obj\Debug\netcoreapp2.1\P09_SpiceMustFlow.dll
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P09_SpiceMustFlow\obj\Debug\netcoreapp2.1\P09_SpiceMustFlow.pdb

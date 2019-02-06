@@ -1,0 +1,10 @@
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P07_WaterOverflow\bin\Debug\netcoreapp2.1\P07_WaterOverflow.deps.json
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P07_WaterOverflow\bin\Debug\netcoreapp2.1\P07_WaterOverflow.runtimeconfig.json
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P07_WaterOverflow\bin\Debug\netcoreapp2.1\P07_WaterOverflow.runtimeconfig.dev.json
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P07_WaterOverflow\bin\Debug\netcoreapp2.1\P07_WaterOverflow.dll
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P07_WaterOverflow\bin\Debug\netcoreapp2.1\P07_WaterOverflow.pdb
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P07_WaterOverflow\obj\Debug\netcoreapp2.1\P07_WaterOverflow.csproj.CoreCompileInputs.cache
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P07_WaterOverflow\obj\Debug\netcoreapp2.1\P07_WaterOverflow.AssemblyInfoInputs.cache
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P07_WaterOverflow\obj\Debug\netcoreapp2.1\P07_WaterOverflow.AssemblyInfo.cs
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P07_WaterOverflow\obj\Debug\netcoreapp2.1\P07_WaterOverflow.dll
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P07_WaterOverflow\obj\Debug\netcoreapp2.1\P07_WaterOverflow.pdb

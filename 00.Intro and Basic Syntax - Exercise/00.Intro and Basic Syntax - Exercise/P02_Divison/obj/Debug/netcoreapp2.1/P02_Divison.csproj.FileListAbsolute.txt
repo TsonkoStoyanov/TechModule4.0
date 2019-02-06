@@ -1,0 +1,10 @@
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P02_Divison\bin\Debug\netcoreapp2.1\P02_Divison.deps.json
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P02_Divison\bin\Debug\netcoreapp2.1\P02_Divison.runtimeconfig.json
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P02_Divison\bin\Debug\netcoreapp2.1\P02_Divison.runtimeconfig.dev.json
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P02_Divison\bin\Debug\netcoreapp2.1\P02_Divison.dll
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P02_Divison\bin\Debug\netcoreapp2.1\P02_Divison.pdb
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P02_Divison\obj\Debug\netcoreapp2.1\P02_Divison.csproj.CoreCompileInputs.cache
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P02_Divison\obj\Debug\netcoreapp2.1\P02_Divison.AssemblyInfoInputs.cache
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P02_Divison\obj\Debug\netcoreapp2.1\P02_Divison.AssemblyInfo.cs
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P02_Divison\obj\Debug\netcoreapp2.1\P02_Divison.dll
+C:\Programing\TechModule4.0\00.Intro and Basic Syntax - Exercise\00.Intro and Basic Syntax - Exercise\P02_Divison\obj\Debug\netcoreapp2.1\P02_Divison.pdb

@@ -1,0 +1,11 @@
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P08_BeerKegs\bin\Debug\netcoreapp2.1\P08_BeerKegs.deps.json
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P08_BeerKegs\bin\Debug\netcoreapp2.1\P08_BeerKegs.runtimeconfig.json
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P08_BeerKegs\bin\Debug\netcoreapp2.1\P08_BeerKegs.runtimeconfig.dev.json
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P08_BeerKegs\bin\Debug\netcoreapp2.1\P08_BeerKegs.dll
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P08_BeerKegs\bin\Debug\netcoreapp2.1\P08_BeerKegs.pdb
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P08_BeerKegs\obj\Debug\netcoreapp2.1\P08_BeerKegs.csprojAssemblyReference.cache
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P08_BeerKegs\obj\Debug\netcoreapp2.1\P08_BeerKegs.csproj.CoreCompileInputs.cache
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P08_BeerKegs\obj\Debug\netcoreapp2.1\P08_BeerKegs.AssemblyInfoInputs.cache
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P08_BeerKegs\obj\Debug\netcoreapp2.1\P08_BeerKegs.AssemblyInfo.cs
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P08_BeerKegs\obj\Debug\netcoreapp2.1\P08_BeerKegs.dll
+C:\Programing\TechModule4.0\02.Data Types and Variables - Exercise\02_DataTypesandVariables-Exercise\P08_BeerKegs\obj\Debug\netcoreapp2.1\P08_BeerKegs.pdb
