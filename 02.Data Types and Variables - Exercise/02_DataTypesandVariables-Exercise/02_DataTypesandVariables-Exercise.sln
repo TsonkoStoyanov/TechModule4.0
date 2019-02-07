@@ -23,13 +23,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P09_SpiceMustFlow", "P09_Sp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P10_PokeMon", "P10_PokeMon\P10_PokeMon.csproj", "{3EF6C17B-929E-4A75-9717-1908F8FB10C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11_Snowballs", "P11_Snowballs\P11_Snowballs.csproj", "{2C3C3674-C8D7-41AC-AF9D-ECAB39640313}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P11_Snowballs", "P11_Snowballs\P11_Snowballs.csproj", "{2C3C3674-C8D7-41AC-AF9D-ECAB39640313}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12_DataTypeFinder", "P12_DataTypeFinder\P12_DataTypeFinder.csproj", "{66D62911-4E33-4FF5-9C47-76E8D2377EFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P12_DataTypeFinder", "P12_DataTypeFinder\P12_DataTypeFinder.csproj", "{66D62911-4E33-4FF5-9C47-76E8D2377EFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13_FromLefttoTheRight", "P13_FromLefttoTheRight\P13_FromLefttoTheRight.csproj", "{C48F35E7-6419-4C33-9ACA-A2C44D96CCB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P13_FromLefttoTheRight", "P13_FromLefttoTheRight\P13_FromLefttoTheRight.csproj", "{C48F35E7-6419-4C33-9ACA-A2C44D96CCB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P14_FloatingEquality", "P14_FloatingEquality\P14_FloatingEquality.csproj", "{6A356D95-CF6C-44D3-B8E1-35BFD905D5D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P14_FloatingEquality", "P14_FloatingEquality\P14_FloatingEquality.csproj", "{6A356D95-CF6C-44D3-B8E1-35BFD905D5D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P15_RefactoringPrimeChecker", "P15_RefactoringPrimeChecker\P15_RefactoringPrimeChecker.csproj", "{304E97BD-BAB4-4FE3-A2DD-70FAC5C30DB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P16_DecryptingMessage", "P16_DecryptingMessage\P16_DecryptingMessage.csproj", "{91570A1B-E8BE-447F-AF7E-3464359FB82E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P17_BalancedBrackets", "P17_BalancedBrackets\P17_BalancedBrackets.csproj", "{10F061A8-48A7-43D1-AE7A-8EA1B2C98DF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +99,18 @@ Global
 		{6A356D95-CF6C-44D3-B8E1-35BFD905D5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A356D95-CF6C-44D3-B8E1-35BFD905D5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A356D95-CF6C-44D3-B8E1-35BFD905D5D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{304E97BD-BAB4-4FE3-A2DD-70FAC5C30DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304E97BD-BAB4-4FE3-A2DD-70FAC5C30DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304E97BD-BAB4-4FE3-A2DD-70FAC5C30DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304E97BD-BAB4-4FE3-A2DD-70FAC5C30DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91570A1B-E8BE-447F-AF7E-3464359FB82E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91570A1B-E8BE-447F-AF7E-3464359FB82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91570A1B-E8BE-447F-AF7E-3464359FB82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91570A1B-E8BE-447F-AF7E-3464359FB82E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F061A8-48A7-43D1-AE7A-8EA1B2C98DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F061A8-48A7-43D1-AE7A-8EA1B2C98DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F061A8-48A7-43D1-AE7A-8EA1B2C98DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F061A8-48A7-43D1-AE7A-8EA1B2C98DF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
