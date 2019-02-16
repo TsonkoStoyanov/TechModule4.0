@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P06_MaxSequenceofEqualEleme
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P10_EncryptSortAndPrintArray", "P10_EncryptSortAndPrintArray\P10_EncryptSortAndPrintArray.csproj", "{919C7EEC-B4BD-4D76-A95B-E8957DEF51C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11_PascalTriangle", "P11_PascalTriangle\P11_PascalTriangle.csproj", "{45323D24-CB2E-4E75-BD5A-4F575CED267E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P11_PascalTriangle", "P11_PascalTriangle\P11_PascalTriangle.csproj", "{45323D24-CB2E-4E75-BD5A-4F575CED267E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12_RecursiveFibonacci", "P12_RecursiveFibonacci\P12_RecursiveFibonacci.csproj", "{F44C7975-5D47-46DF-A547-2785ED4F1891}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{45323D24-CB2E-4E75-BD5A-4F575CED267E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45323D24-CB2E-4E75-BD5A-4F575CED267E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45323D24-CB2E-4E75-BD5A-4F575CED267E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F44C7975-5D47-46DF-A547-2785ED4F1891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44C7975-5D47-46DF-A547-2785ED4F1891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44C7975-5D47-46DF-A547-2785ED4F1891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44C7975-5D47-46DF-A547-2785ED4F1891}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

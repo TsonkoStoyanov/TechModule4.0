@@ -8,16 +8,26 @@ namespace P11_PascalTriangle
         {
             int number = int.Parse(Console.ReadLine());
 
-            for (int i = 1; i <= number; i++)
+
+            for (int i = 0; i < number; i++)
             {
-                for (int j = 1; j < number; j++)
+                int value = 1;
+
+                for (int j = 0; j <= i; j++)
                 {
-                    Console.Write(1);
-                    Console.Write(j);
+                    Console.Write(value + " ");
+
+                    value = value * (i - j) / (j + 1);
                 }
 
-                Console.WriteLine(1);
+                Console.WriteLine();
             }
+
+
+
+
+
+
         }
     }
 }
