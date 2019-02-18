@@ -60,7 +60,7 @@ namespace P10_ArrayManipulator
             int index = 0;
 
 
-            if (!IsInside(array, count))
+            if (count<0||count>array.Length)
             {
                 Console.WriteLine($"Invalid count");
                 return;
@@ -128,7 +128,7 @@ namespace P10_ArrayManipulator
         {
             int index = 0;
 
-            if (!IsInside(array, count))
+            if (count<0||count>array.Length)
             {
                 Console.WriteLine($"Invalid count");
                 return;
@@ -308,7 +308,7 @@ namespace P10_ArrayManipulator
 
         private static bool IsInside(int[] array, int index)
         {
-            if (index < 0 || index > array.Length)
+            if (index < 0 || index >= array.Length)
             {
                 return false;
             }
