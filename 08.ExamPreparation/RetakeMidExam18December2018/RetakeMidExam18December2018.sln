@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P00_ChristmasSpirit", "P00_ChristmasSpirit\P00_ChristmasSpirit.csproj", "{1CF881F5-3E84-4C52-8A74-A1BFB288E4C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P00_ChristmasSpirit", "P00_ChristmasSpirit\P00_ChristmasSpirit.csproj", "{1CF881F5-3E84-4C52-8A74-A1BFB288E4C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_Santa'sList", "P01_Santa'sList\P01_Santa'sList.csproj", "{48D028A2-8A3F-4FA4-BF20-C129D74F6F5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01_Santa'sList", "P01_Santa'sList\P01_Santa'sList.csproj", "{48D028A2-8A3F-4FA4-BF20-C129D74F6F5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02_PresentDelivery", "P02_PresentDelivery\P02_PresentDelivery.csproj", "{8E5C3A1B-F00B-4F9D-950B-8FA9CB8D9BE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02_PresentDelivery", "P02_PresentDelivery\P02_PresentDelivery.csproj", "{8E5C3A1B-F00B-4F9D-950B-8FA9CB8D9BE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_Snowmen", "P03_Snowmen\P03_Snowmen.csproj", "{12084CA9-C052-40E1-8449-E88965BCECAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03_Snowmen", "P03_Snowmen\P03_Snowmen.csproj", "{12084CA9-C052-40E1-8449-E88965BCECAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04_SantaCookies", "..\PFAditionalRetakeExam10January2019Part I\P04_SantaCookies\P04_SantaCookies.csproj", "{E46C8F7D-3A0F-42AE-9533-2130D4D96C71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05_SantaGifts", "P05_SantaGifts\P05_SantaGifts.csproj", "{C35A38FD-ED62-4D12-BE89-F54D0D9AC9D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{12084CA9-C052-40E1-8449-E88965BCECAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12084CA9-C052-40E1-8449-E88965BCECAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12084CA9-C052-40E1-8449-E88965BCECAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E46C8F7D-3A0F-42AE-9533-2130D4D96C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E46C8F7D-3A0F-42AE-9533-2130D4D96C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E46C8F7D-3A0F-42AE-9533-2130D4D96C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E46C8F7D-3A0F-42AE-9533-2130D4D96C71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C35A38FD-ED62-4D12-BE89-F54D0D9AC9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35A38FD-ED62-4D12-BE89-F54D0D9AC9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35A38FD-ED62-4D12-BE89-F54D0D9AC9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35A38FD-ED62-4D12-BE89-F54D0D9AC9D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
