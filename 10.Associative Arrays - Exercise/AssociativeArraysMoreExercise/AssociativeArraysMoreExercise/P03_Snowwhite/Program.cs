@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 
 namespace P03_Snowwhite
 {
@@ -10,7 +11,7 @@ namespace P03_Snowwhite
         {
             string input = string.Empty;
 
-            Dictionary<string, HashSet<string>> dwarfs = new Dictionary<string, HashSet<string>>();
+            Dictionary<string, Dictionary<string, int>> dwarfs = new Dictionary<string, Dictionary<string, int>>();
 
             Dictionary<string, int> dwarfswithPhysics = new Dictionary<string, int>();
 
@@ -25,25 +26,36 @@ namespace P03_Snowwhite
 
                 if (!dwarfs.ContainsKey(dwarfHatColor))
                 {
-                    dwarfs.Add(dwarfHatColor, new HashSet<string>());
+                    dwarfs.Add(dwarfHatColor, new Dictionary<string, int>());
+                }
 
-                    if (!dwarfswithPhysics.ContainsKey(dwarfName))
+                if (!dwarfs[dwarfHatColor].ContainsKey(dwarfName))
+                {
+                    dwarfs[dwarfHatColor].Add(dwarfName, dwarfPhysics);
+                    dwarfswithPhysics.Add(dwarfName, dwarfPhysics);
+                }
+                else
+                {
+                    if (dwarfs[dwarfHatColor][dwarfName] < dwarfPhysics)
                     {
-                        dwarfswithPhysics.Add(dwarfName, dwarfPhysics);
-                    }
-                    else
-                    {
-                        if (dwarfswithPhysics[dwarfName] < dwarfPhysics)
-                        {
-                            dwarfswithPhysics[dwarfName] = dwarfPhysics;
-                        }
+                        dwarfs[dwarfHatColor][dwarfName] = dwarfPhysics;
+                        dwarfswithPhysics[dwarfName] = dwarfPhysics;
                     }
                 }
-                dwarfs[dwarfHatColor].Add(dwarfName);
+
             }
 
+            foreach (var dwarf in dwarfswithPhysics.OrderByDescending(x=>x.Value))
+            {
+                string currentDwarfName = dwarf.Key;
 
-            ;
+                foreach (var item in dwarfs.OrderByDescending(x=>x.Value.Count))
+                {
+                    ;
+                    Console.WriteLine($"({dwarfs[currentDwarfName]}) {currentDwarfName} <-> {dwarfs[currentDwarfName][currentDwarfName]}");
+                }
+            }
+
 
         }
     }
