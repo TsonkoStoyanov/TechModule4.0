@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P00_VaporWinterSale", "P00_VaporWinterSale\P00_VaporWinterSale.csproj", "{219201D4-6FCF-4FAB-841D-250E72D59216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_ActivationKeys", "P01_ActivationKeys\P01_ActivationKeys.csproj", "{02835F66-471E-4C92-80B2-61450C40D399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{219201D4-6FCF-4FAB-841D-250E72D59216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219201D4-6FCF-4FAB-841D-250E72D59216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219201D4-6FCF-4FAB-841D-250E72D59216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219201D4-6FCF-4FAB-841D-250E72D59216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02835F66-471E-4C92-80B2-61450C40D399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02835F66-471E-4C92-80B2-61450C40D399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02835F66-471E-4C92-80B2-61450C40D399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02835F66-471E-4C92-80B2-61450C40D399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7BDEF64-BE3F-4A56-ABCC-9C60B2CA9827}
+	EndGlobalSection
+EndGlobal
