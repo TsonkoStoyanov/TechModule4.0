@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P00_ChoreWars", "P00_ChoreWars\P00_ChoreWars.csproj", "{6586DBA5-7C0D-4887-9AC1-82984F9F7F93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_MeTubeStatistics", "P01_MeTubeStatistics\P01_MeTubeStatistics.csproj", "{B5C754F9-3932-402D-916D-62904CD045A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6586DBA5-7C0D-4887-9AC1-82984F9F7F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6586DBA5-7C0D-4887-9AC1-82984F9F7F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6586DBA5-7C0D-4887-9AC1-82984F9F7F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6586DBA5-7C0D-4887-9AC1-82984F9F7F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5C754F9-3932-402D-916D-62904CD045A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C754F9-3932-402D-916D-62904CD045A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C754F9-3932-402D-916D-62904CD045A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C754F9-3932-402D-916D-62904CD045A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F491F90E-F84C-4BC5-AE7A-2FB4B95404B8}
+	EndGlobalSection
+EndGlobal
